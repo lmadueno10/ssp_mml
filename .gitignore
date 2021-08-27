@@ -17,4 +17,3 @@ docs
 /app/release
 /app/src/debug
 /app/src/release
-/app/src/main/java/com/appsereno/config/ConfigFtp.java
