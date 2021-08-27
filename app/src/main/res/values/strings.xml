@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">App Sereno</string>
+    <string name="content_description_favorite">Descripción</string>
+    <string name="unser_name">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="logout">Salir</string>
+    <string name="logout_description">Cerrar sesión</string>
+    <string name="login_title">Inicio de sesión</string>
+    <string name="login_subtitle">Ingresa tu usuario y contraseña</string>
+    <string name="keep_session_text">Mantener sesión activa</string>
+    <string name="btn_login_text">INICIAR SESIÓN</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Inicio</string>
+    <string name="report_title">Reportar</string>
+    <string name="pending_title">Pendientes</string>
+    <string name="stream_title">Transmitir</string>
+    <string name="streaming_live">Transmisión en vivo</string>
+    <string name="title_activity_ubicacion_map">Map</string>
+
+    <string name="image">image</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+
+    <!-- pix Image -->
+    <string name="fragment_implementation_sample">Fragment Implementation Sample</string>
+    <string name="nav_controller_implementation_sample">NavController Implementation Sample</string>
+    <string name="viewpager2_implementation_sample">ViewPager2 Implementation Sample</string>
+    <string name="configuration">Configuration</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="options_header">Edit Options</string>
+    <string name="ratio_title">Image/Video Ratio</string>
+    <string name="count_title">Maximum number of images to be selected</string>
+    <string name="grid_span_title">Number of columns in the grid</string>
+    <string name="front_facing_title">Camera front facing</string>
+    <string name="video_duration_title">Video Duration</string>
+    <string name="video_duration_summary">Add video duration limit in seconds</string>
+    <string name="flash_title">Flash</string>
+    <string name="theme_header">Theme</string>
+    <string name="mode_title">Capture mode</string>
+    <string name="message_to_drag_up">Arrastre hacia arriba para abrir galería</string>
+    <string name="pix_bottom_message_with_video">Mantenga presionado para vídeo / toque para foto</string>
+    <string name="pix_tap_to_select">Toque la foto para seleccionar</string>
+    <string name="pix_selected">Seleccionado(s)</string>
+    <string name="pix_recent">Recientes</string>
+    <string name="pix_last_month">Mes pasado</string>
+    <string name="pix_last_week">Semana Pasada</string>
+</resources>

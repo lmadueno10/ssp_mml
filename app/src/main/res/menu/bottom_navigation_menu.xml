@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_24"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/page_report"
+        android:enabled="true"
+        android:icon="@drawable/ic_campaign_24"
+        android:title="@string/report_title"/>
+    <item
+        android:id="@+id/page_pending"
+        android:enabled="true"
+        android:icon="@drawable/ic_assignment_24"
+        android:title="@string/pending_title"/>
+    <item
+        android:id="@+id/page_stream"
+        android:enabled="true"
+        android:icon="@drawable/ic_videocam_24"
+        android:title="@string/stream_title"/>
+</menu>

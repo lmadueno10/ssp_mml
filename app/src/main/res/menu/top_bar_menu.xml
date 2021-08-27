@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/top_item_stream"
+        android:icon="@drawable/ic_video_call_24"
+        android:title="@string/streaming_live"
+        android:contentDescription="@string/content_description_favorite"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/top_item_logout"
+        android:title="@string/logout"
+        android:contentDescription="@string/logout_description"
+        app:showAsAction="never" />
+</menu>
