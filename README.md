@@ -2,7 +2,7 @@
 # app_sereno_android
 ### Build app
 ```
-git clone https://github.com/lmadueno10/app_sereno_android.git
+git clone https://github.com/lmadueno10/ssp_mml.git
 
 ```
 ### Requirements
